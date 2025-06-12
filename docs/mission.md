@@ -1,0 +1,1 @@
+The mission of the Open Science Collective is to ensure the sustainability of open-source research infrastructure by establishing a transparent, proportional funding model that empowers stable careers for research software engineers, strengthens the digital foundations of academic research, and secures open scientific tools for future generations.
