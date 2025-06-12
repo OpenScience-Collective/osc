@@ -2,6 +2,9 @@
 
 OpenScience Collecitve (OSC) aims to create a sustainable funding model for academic open source software through small percentage-based contributions from research grants.
 
+>[!NOTE]
+>The current proposal is being worked  on [this project summary at Google Docs](https://docs.google.com/document/d/1-0VrrUTrOLpnmzxVKOKAySoOG_3DjGt4/edit?pli=1). Please consider adding your comments, edits and experieces.
+
 ## Vision
 
 Our vision is to establish a non-governmental organization that:
