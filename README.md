@@ -1,6 +1,6 @@
-# Open-Science Collecitve: Sustainable Funding for Academic Open Science
+# OpenScience Collecitve: Sustainable Funding for Academic Open Science
 
-Open-Science Collecitve (OSC) aims to create a sustainable funding model for academic open source software through small percentage-based contributions from research grants.
+OpenScience Collecitve (OSC) aims to create a sustainable funding model for academic open source software through small percentage-based contributions from research grants.
 
 ## Vision
 
