@@ -46,7 +46,11 @@ These predate the rule, and each is recorded so it is not copied:
   the demo page, under the rule, would sit under a `demo` plane's `/osa/` path.
 - `api.osc.earth/osa-dev` puts the environment in the path rather than in a prefix on the plane.
 
-Moving either is a change for the project that owns it,
-made so the old address keeps working while readers move.
+- `osa-demo.pages.dev/osa-chat-widget.js`, the Pages account hostname, is what some outside sites embed today.
+  It keeps serving the widget, and new material never points at it.
+
+Moving any of these is a change for the project that owns it,
+made so the old address keeps serving (not redirecting, since an embedding page's security policy may name only the old host)
+while readers move, and retired only in a separate, announced step.
 
 Recorded 2026-09-23.
