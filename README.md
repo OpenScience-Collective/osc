@@ -24,6 +24,7 @@ os-collective/
 ├── docs/                  # Documentation
 │   ├── concept/           # Concept papers and proposals
 │   ├── governance/        # Governance structure
+│   ├── infrastructure/    # Shared infrastructure rules (hostnames)
 │   └── metrics/           # Usage metrics and impact assessment
 ├── models/                # Funding models and simulations
 ├── presentations/         # Presentation materials
