@@ -41,7 +41,9 @@ These predate the rule, and each is recorded so it is not copied:
 
 - `demo.osc.earth` serves OSA's demo page and its widget script at the host root,
   and branch previews use `{branch}-demo.osc.earth`.
-  Under the rule these would sit under a `demo` plane's `/osa/` path.
+  The script belongs on the widget plane, at `widget.osc.earth/osa/`,
+  which today serves only the API edge (OpenScience-Collective/osa#464);
+  the demo page, under the rule, would sit under a `demo` plane's `/osa/` path.
 - `api.osc.earth/osa-dev` puts the environment in the path rather than in a prefix on the plane.
 
 Moving either is a change for the project that owns it,
